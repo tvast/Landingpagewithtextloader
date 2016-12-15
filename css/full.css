@@ -16,10 +16,12 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    position : absolute;
+    top: 50%;
+    left: 50%;
 }
 
 .title {
-font-family : ;
 font-size : 10em;
 color : white;
 position: absolute;
