@@ -1,3 +1,3 @@
 #Quadrivium
 
-Download project and kaunch index.html
+Download project and launch index.html
